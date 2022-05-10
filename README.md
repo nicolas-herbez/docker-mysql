@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/version-1.0.0-blue" />
+    <img src="https://img.shields.io/badge/version-1.0.1-blue" />
 </p>
 
 # Docker-MySQL
@@ -42,7 +42,8 @@ docker-compose up -d --build
 ### Test with phpMyAdmin
 
 Test it at this address
-<a href="http://localhost/" target="_blanc"><img src="https://img.shields.io/badge/localhost-8080-blue" /></a>
+<a href="http://localhost:8080/" target="_blanc"><img src="https://img.shields.io/badge/localhost-8080-blue" /></a>
+
 See [environment](https://github.com/nicolas-herbez/docker-mysql/blob/main/docker-compose.yaml) for login and password
 
 ### Stop
