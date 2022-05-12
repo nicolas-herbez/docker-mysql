@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/version-1.0.1-blue" />
+    <img src="https://img.shields.io/badge/version-1.2.0-blue" />
 </p>
 
 # Docker-MySQL
